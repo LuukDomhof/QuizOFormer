@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player\DataCentre.js">
+    <Files>
+      <File FileName="Assets\Scripts\Player\DataCentre.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Menu Script.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\animControllerScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\DataCentre.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\Character Movement Test.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
